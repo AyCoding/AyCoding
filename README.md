@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![image principal](https://media.discordapp.net/attachments/803923653729189890/917085361186951198/unknown.png)
 <!--
 **Ertinox-08/Ertinox-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
