@@ -1,7 +1,16 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 ![image principal](https://media.discordapp.net/attachments/803923653729189890/917085361186951198/unknown.png)
+
+* Développeur de sites web depuis 2021
+
+# Langages utilisés
+* HTML
+* CSS
+* JS
+* PYTHON
+
 <!--
-**Ertinox-08/Ertinox-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AyCoding/AyCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
