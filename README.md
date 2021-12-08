@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 <!-- ![image principal](https://media.discordapp.net/attachments/803923653729189890/917085361186951198/unknown.png) -->
 
-![AyCoding's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyCoding&show_icons=true&theme=github_dark)
+![AyCoding's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyCoding&count_private=true&theme=github_dark)
 <!-- # Langages utilisés -->
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyCoding&langs_count=5&theme=github_dark)
 
