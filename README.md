@@ -1,3 +1,23 @@
+<br>
+
+<div>
+  <img height="20" src="./icons/html5.svg">
+  &nbsp;
+  <img height="20" src="./icons/css3.svg">
+  &nbsp;
+  <img height="20" src="./icons/sass.svg">
+  &nbsp;
+  <img height="20" src="./icons/javascript.svg">
+  &nbsp;
+  <img height="20" src="./icons/figma.svg">
+  &nbsp;
+  <img height="20" src="./icons/git.svg">
+  &nbsp;
+  <img height="20" src="./icons/python.svg">
+</div>
+
+<br>
+
 <!-- ### Hi there 👋 -->
 <!-- ![image principal](https://media.discordapp.net/attachments/803923653729189890/917085361186951198/unknown.png) -->
 
