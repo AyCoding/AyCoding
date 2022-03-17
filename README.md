@@ -5,13 +5,20 @@
   &nbsp;
   <img height="20" src="./icons/sass.svg">
   &nbsp;
+  <img height="20" src="./icons/php.svg">
+  &nbsp;
+  <img height="20" src="icons/python.svg">
+  &nbsp;
   <img height="20" src="./icons/javascript.svg">
   &nbsp;
   <img height="20" src="./icons/figma.svg">
   &nbsp;
   <img height="20" src="./icons/git.svg">
   &nbsp;
-  <img height="20" src="./icons/python.svg">
+  <img height="20" src="icons/pycharm.svg">
+  &nbsp;
+  <img height="20" src="icons/phpstorm.svg">
+
 </div>
 
 ### Hi there 👋
