@@ -1,3 +1,6 @@
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aycoding&layout=compact">
+
+
 <div>
   <img height="20" src="./icons/html5.svg">
   &nbsp;
@@ -26,10 +29,8 @@
 I'm Aymeric DE LANGE, frontend developer.
 
 [About me](http://delange.tk)
-<br>
-<br>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyCoding&langs_count=5&theme=github_dark&layout=compact)
+
 <!--
 **AyCoding/AyCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
