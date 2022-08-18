@@ -1,37 +1,50 @@
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aycoding&layout=compact">
-
-
-<div>
-  <img height="20" src="./icons/html5.svg">
-  &nbsp;
-  <img height="20" src="./icons/css3.svg">
-  &nbsp;
-  <img height="20" src="./icons/sass.svg">
-  &nbsp;
-  <img height="20" src="./icons/php.svg">
-  &nbsp;
-  <img height="20" src="icons/python.svg">
-  &nbsp;
-  <img height="20" src="./icons/javascript.svg">
-  &nbsp;
-  <img height="20" src="./icons/figma.svg">
-  &nbsp;
-  <img height="20" src="./icons/git.svg">
-  &nbsp;
-  <img height="20" src="icons/pycharm.svg">
-  &nbsp;
-  <img height="20" src="icons/phpstorm.svg">
-
-</div>
+<div id="header" align="center">
 
 ### Hi there 👋
 
 I'm Aymeric DE LANGE, frontend developer.
 
-[About me](http://delange.tk)
+<h2>🛠 Skills<hr/><h2/>
 
+<div>
+  <img height="40" src="./icons/html5.svg">
+  &nbsp;
+  <img height="40" src="./icons/css3.svg">
+  &nbsp;
+  <img height="40" src="./icons/sass.svg">
+  &nbsp;
+  <img height="40" src="./icons/php.svg">
+  &nbsp;
+  <img height="40" src="icons/python.svg">
+  &nbsp;
+  <img height="40" src="./icons/javascript.svg">
+  &nbsp;
+  <img height="40" src="./icons/figma.svg">
+  &nbsp;
+  <img height="40" src="./icons/git.svg">
+  &nbsp;
+  <img height="40" src="icons/pycharm.svg">
+  &nbsp;
+  <img height="40" src="icons/phpstorm.svg">
+</div>
+
+
+<h2>🔗 Links<hr/><h2/>
+
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aycoding.github.io/Portfolio/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ertinox08Gaming/)
+
+<hr/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aycoding&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AyCoding)](https://git.io/streak-stats)
 
 <!--
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
 **AyCoding/AyCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
