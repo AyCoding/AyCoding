@@ -1,5 +1,3 @@
-<div id="header" align="center">
-
 # Hi there 👋
 
 I'm Aymeric DE LANGE, frontend developer
@@ -33,8 +31,7 @@ I'm Aymeric DE LANGE, frontend developer
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aycoding.github.io/Portfolio/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ertinox08Gaming/)
-
-<hr>
+---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aycoding&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
