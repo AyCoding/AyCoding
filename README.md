@@ -33,7 +33,7 @@ I'm Aymeric DE LANGE, frontend developer
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ertinox08Gaming/)
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aycoding&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AyCoding&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AyCoding)](https://git.io/streak-stats)
 
