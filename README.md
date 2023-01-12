@@ -37,10 +37,10 @@ I'm Aymeric DE LANGE, frontend developer
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AyCoding)](https://git.io/streak-stats)
 
-[![wakatime](https://wakatime.com/badge/user/da80881b-acd9-4185-9ff4-70ee428e79d3.svg)](https://wakatime.com/@da80881b-acd9-4185-9ff4-70ee428e79d3)
+
 
 <!--
-
+[![wakatime](https://wakatime.com/badge/user/da80881b-acd9-4185-9ff4-70ee428e79d3.svg)](https://wakatime.com/@da80881b-acd9-4185-9ff4-70ee428e79d3)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 **AyCoding/AyCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
