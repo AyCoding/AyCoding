@@ -2,7 +2,7 @@
 
 I'm Aymeric DE LANGE, frontend developer
 
-## 🛠 Skills
+## 🛠 Languages and Tools
 
 
 <div>
