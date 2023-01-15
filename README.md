@@ -1,8 +1,8 @@
-# Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-I'm Aymeric DE LANGE, frontend developer
+<h3 align="center">I'm Aymeric DE LANGE, frontend developer</h3>
 
-## 🛠 Languages and Tools
+<h3 align="left" style="margin-top:50px">Languages and Tools:</h3>
 
 
 <div>
@@ -55,11 +55,11 @@ I'm Aymeric DE LANGE, frontend developer
   </a>
 </div>
 
-## 🔗 Links
+<h3 align="left" style="margin-top:50px">Links:</h3>
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aycoding.github.io/Portfolio/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ertinox08Gaming/)
----
+<h3 align="left" style="margin-top:50px">Github Stats:</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AyCoding&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
