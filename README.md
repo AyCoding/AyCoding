@@ -21,6 +21,14 @@ I'm Aymeric DE LANGE, frontend developer
   <a href="https://www.php.net/">
     <img height="40" src="./icons/php.svg">
   </a>
+    &nbsp;
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript">
+    <img height="40" src="./icons/javascript.svg">
+  </a>
+  &nbsp;
+  <a href="https://vuejs.org/">
+    <img height="40" src="./icons/vue.svg">
+  </a>
   &nbsp;
   <a href="https://www.python.org/">
     <img height="40" src="icons/python.svg">
@@ -28,10 +36,6 @@ I'm Aymeric DE LANGE, frontend developer
   &nbsp;
   <a href="https://flutter.dev/">
     <img height="40" src="./icons/flutter.svg">
-  </a>
-  &nbsp;
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript">
-    <img height="40" src="./icons/javascript.svg">
   </a>
   &nbsp;
   <a href="https://www.figma.com/">
@@ -80,4 +84,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</div>
