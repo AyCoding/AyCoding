@@ -6,25 +6,49 @@ I'm Aymeric DE LANGE, frontend developer
 
 
 <div>
-  <img height="40" src="./icons/html5.svg">
+  <a href="https://developer.mozilla.org/fr/docs/Web/HTML">
+    <img height="40" src="./icons/html5.svg">
+  </a>
   &nbsp;
-  <img height="40" src="./icons/css3.svg">
+  <a href="https://developer.mozilla.org/docs/Web/CSS">
+    <img height="40" src="./icons/css3.svg">
+  </a>
   &nbsp;
-  <img height="40" src="./icons/sass.svg">
+  <a href="https://sass-lang.com/">
+    <img height="40" src="./icons/sass.svg">
+  </a>
   &nbsp;
-  <img height="40" src="./icons/php.svg">
+  <a href="https://www.php.net/">
+    <img height="40" src="./icons/php.svg">
+  </a>
   &nbsp;
-  <img height="40" src="icons/python.svg">
+  <a href="https://www.python.org/">
+    <img height="40" src="icons/python.svg">
+  </a>
   &nbsp;
-  <img height="40" src="./icons/javascript.svg">
+  <a href="https://flutter.dev/">
+    <img height="40" src="./icons/flutter.svg">
+  </a>
   &nbsp;
-  <img height="40" src="./icons/figma.svg">
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript">
+    <img height="40" src="./icons/javascript.svg">
+  </a>
   &nbsp;
-  <img height="40" src="./icons/git.svg">
+  <a href="https://www.figma.com/">
+    <img height="40" src="./icons/figma.svg">
+  </a>
   &nbsp;
-  <img height="40" src="icons/pycharm.svg">
+  <a href="https://git-scm.com/">
+    <img height="40" src="./icons/git.svg">
+  </a>
   &nbsp;
-  <img height="40" src="icons/phpstorm.svg">
+  <a href="https://www.jetbrains.com/pycharm/">
+    <img height="40" src="icons/pycharm.svg">
+  </a>
+  &nbsp;
+  <a href="https://www.jetbrains.com/phpstorm/">
+    <img height="40" src="icons/phpstorm.svg">
+  </a>
 </div>
 
 ## 🔗 Links
