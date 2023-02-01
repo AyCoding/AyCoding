@@ -61,7 +61,7 @@
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ertinox08Gaming/)
 <h3 align="left" style="margin-top:50px">Github Stats:</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=AyCoding&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AyCoding&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![AyCoding's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AyCoding&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
