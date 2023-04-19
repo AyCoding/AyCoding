@@ -66,7 +66,7 @@
 [![AyCoding's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AyCoding&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AyCoding)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AyCoding)](https://git.io/streak-stats) -->
 
 
 
