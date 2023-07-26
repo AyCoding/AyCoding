@@ -29,14 +29,17 @@
   <a href="https://vuejs.org/">
     <img height="40" src="./icons/vue.svg">
   </a>
+  <a href="https://react.dev/">
+    <img height="40" src="./icons/react.svg">
+  </a>
   &nbsp;
   <a href="https://www.python.org/">
     <img height="40" src="icons/python.svg">
   </a>
   &nbsp;
-  <a href="https://flutter.dev/">
+  <!-- <a href="https://flutter.dev/">
     <img height="40" src="./icons/flutter.svg">
-  </a>
+  </a> -->
   &nbsp;
   <a href="https://www.figma.com/">
     <img height="40" src="./icons/figma.svg">
@@ -57,7 +60,7 @@
 
 <h3 align="left" style="margin-top:50px">Links:</h3>
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aycoding-portfolio.netlify.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio_-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://react-portfolio-psi-nine.vercel.app/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ertinox08Gaming/)
 <h3 align="left" style="margin-top:50px">Github Stats:</h3>
 
