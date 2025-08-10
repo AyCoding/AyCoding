@@ -4,7 +4,6 @@
 
 <h3 align="left" style="margin-top:50px">Languages and Tools:</h3>
 
-
 <div>
   <a href="https://developer.mozilla.org/fr/docs/Web/HTML">
     <img height="40" src="./icons/html5.svg">
@@ -29,8 +28,17 @@
   <a href="https://vuejs.org/">
     <img height="40" src="./icons/vue.svg">
   </a>
+  &nbsp;
+  <a href="https://nuxt.com/">
+    <img height="40" src="./icons/nuxt.svg">
+  </a>
+  &nbsp;
   <a href="https://react.dev/">
     <img height="40" src="./icons/react.svg">
+  </a>
+  &nbsp;
+  <a href="https://tailwindcss.com/">
+    <img height="40" src="./icons/tailwindcss.svg">
   </a>
   &nbsp;
   <a href="https://www.python.org/">
@@ -60,22 +68,18 @@
 
 <h3 align="left" style="margin-top:50px">Links:</h3>
 
-[![portfolio](https://img.shields.io/badge/my_portfolio_-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.aymericdelange.fr/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ertinox08Gaming/)
+[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge)](https://aymericdelange.fr/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/aymeric-de-lange/)
+
 <h3 align="left" style="margin-top:50px">Github Stats:</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AyCoding&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![wakatime](https://wakatime.com/badge/user/662ada7c-bebb-4a06-abd1-429f3ee1335c.svg)](https://wakatime.com/@662ada7c-bebb-4a06-abd1-429f3ee1335c)
+
 [![AyCoding's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AyCoding&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AyCoding)](https://git.io/streak-stats) -->
-
-
-
 <!--
-[![wakatime](https://wakatime.com/badge/user/da80881b-acd9-4185-9ff4-70ee428e79d3.svg)](https://wakatime.com/@da80881b-acd9-4185-9ff4-70ee428e79d3)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 **AyCoding/AyCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
