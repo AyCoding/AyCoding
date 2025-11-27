@@ -71,14 +71,13 @@
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge)](https://aymericdelange.fr/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/aymeric-de-lange/)
 
-<h3 align="left" style="margin-top:50px">Github Stats:</h3>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AyCoding&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left" style="margin-top:50px">Stats:</h3>
 
 [![wakatime](https://wakatime.com/badge/user/662ada7c-bebb-4a06-abd1-429f3ee1335c.svg)](https://wakatime.com/@662ada7c-bebb-4a06-abd1-429f3ee1335c)
 
 [![AyCoding's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AyCoding&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://komarev.com/ghpvc/?username=aycoding&label=Profile%20views&color=0e75b6&style=flat" alt="aycoding stats"/>
 <!--
 
 **AyCoding/AyCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
